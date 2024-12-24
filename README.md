@@ -24,3 +24,5 @@ Step 2: Project the 3D points onto the plane of the ground plane to obtain 2D co
 Step 3: The implementation for RANSAC algorithm itself costs, that for circle estimation. The radius is estimated from all the inliers. Finally, save the results in xyz format, then visualize the selected inliers in Meshlab. 
 
 ![Best_fitted_Circle](https://github.com/syma-afsha/Radius-measurement-of-a-turning-circle-in-ELTE-parking-lot-based-on-GPS-locations/blob/main/best_fitted_circle.png)
+
+![Final Result](https://github.com/syma-afsha/Radius-measurement-of-a-turning-circle-in-ELTE-parking-lot-based-on-GPS-locations/blob/main/Step3.png)
